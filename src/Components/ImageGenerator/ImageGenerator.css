@@ -12,16 +12,16 @@
 
 /* Header Styles */
 .header {
-    font-family: Arial, Helvetica, sans-serif;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 700;
     color: white;
-    font-size: 50px;
-    font-weight: 500;
+    font-size:90px;
     text-align: center;
 }
 
 .header span {
     color: goldenrod;
-    font-weight: 600;
+    
 }
 
 /* Image Loading Section */
@@ -140,9 +140,7 @@
         align-items:center;
     }
 
-    .header {
-        font-size: 60px;
-    }
+    
 
     .search-box {
         flex-direction: row;
